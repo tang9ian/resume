@@ -7,7 +7,7 @@ npm install or yarn install
 ```
 # Run this app
 ```sh
-npm run dev or yarn start dev
+npm run dev or yarn run dev
 ```
 # Update resume data
 1. Using golang backend app client(WIP)
