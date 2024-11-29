@@ -1,2 +1,15 @@
-# resume
-Implementing a one-page resume with [Vue.js](https://github.com/tang9ian/resume/tree/vue.js), [React JS](https://github.com/tang9ian/resume/tree/reactjs), and [Svelte](https://github.com/tang9ian/resume/tree/svelte).
+# Tech Stack: Svelte + Vite
+This resume app using Svelte + Vite
+
+# Install dependencies
+```sh
+npm install or yarn install
+```
+# Run this app
+```sh
+npm run dev or yarn run dev
+```
+# Update resume data
+1. Using golang backend app client(WIP)
+
+2. Directly update resumeData.json file under the current project folder
