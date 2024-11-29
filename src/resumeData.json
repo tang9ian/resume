@@ -1,0 +1,57 @@
+{
+    "name": "Charles Tang",
+    "title": "Full-Stack Developer",
+    "year": "2024",
+    "author": "Charles Tang",
+    "license": "MIT",
+    "contact": {
+        "email": "tang9ian@gmail.com",
+        "phone": "415-***-****",
+        "linkedin": "https://linkedin.com/in/tang9ian",
+        "portfolio": "https://tang9ian.github.io",
+        "github": "https://github.com/tang9ian"
+    },
+    "summary": "Experienced Full-Stack Developer specializing in scalable, high-performance applications with over a decade in the industry. My work spans backend and frontend development in Java, ColdFusion, and Node.js, with strong expertise in single-page applications using React and TypeScript. Led the development of large-scale web apps for major events, delivered customized software solutions for top clients like HPE, SAP, and Informatica, and have proven skills in integrating and migrating legacy systems. My Career includes mentoring, API design, and implementing complex microservices architectures.",
+    "skills": [
+        "Java",
+        "ColdFusion",
+        "JavaScript",
+        "ReactJS/Vue.js/Svelte",
+        "CI",
+        "Node.js",
+        "CSS",
+        "HTML"
+    ],
+    "experience": [
+        {
+            "position": "Full-Stack Software Engineer",
+            "company": "WebEvents Global",
+            "years": "2014 - 2024",
+            "description": "Developed web applications using Node.js and ColdFusion, Java"
+        },
+        {
+            "position": "Software Engineer",
+            "company": "Appeon Software",
+            "years": "2011 - 2013",
+            "description": "Built responsive web app and migrated on C/S to B/S modern applications."
+        },
+        {
+            "position": "Software Engineer",
+            "company": "Cityray Technology",
+            "years": "2005 - 2011",
+            "description": "Developed backend solutions using multiple programming languages, including Java and ColdFusion."
+        }
+    ],
+    "education": [
+        {
+            "degree": "English as a second language and Computer Science",
+            "school": "City College of San Francisco",
+            "years": ""
+        },
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "school": "University of Electronic Science and Technology of China",
+            "years": ""
+        }
+    ]
+}
